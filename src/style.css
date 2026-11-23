@@ -1,0 +1,18 @@
+:root { font-family: system-ui, sans-serif; color: #172b3a; background: #e7ece8; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+#map { position: fixed; inset: 0; }
+.panel { position: absolute; top: 20px; left: 20px; width: min(400px, calc(100% - 40px)); padding: 22px; border: 1px solid #ffffff; border-radius: 18px; background: #fffffff5; box-shadow: 0 8px 32px #172b3a20; }
+header strong { font-size: 24px; letter-spacing: -.8px; }
+header span { font-size: 12px; font-weight: 400; letter-spacing: 0; color: #62747f; }
+header p { margin: 4px 0 18px; }
+.dates { display: flex; gap: 12px; }
+label { display: flex; flex: 1; flex-direction: column; min-width: 0; gap: 6px; font-size: 13px; }
+input { width: 100%; min-height: 44px; border: 1px solid #c6d2d8; border-radius: 8px; padding: 8px; font: inherit; background: white; color: inherit; }
+input:focus-visible { outline: 2px solid #247c83; outline-offset: 2px; }
+.hint { font-size: 11px; color: #62747f; }
+#status { margin-bottom: 0; font-size: 13px; line-height: 1.5; }
+.maplibregl-popup-content { padding: 18px; border-radius: 12px; }
+.maplibregl-popup-content h2 { margin: 0 12px 10px 0; font-size: 18px; }
+.maplibregl-popup-content p { margin: 8px 0 0; line-height: 1.5; white-space: pre-wrap; }
+@media (max-width: 480px) { .panel { top: 12px; left: 12px; width: calc(100% - 24px); padding: 16px; } }
