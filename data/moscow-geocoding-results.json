@@ -1,0 +1,2399 @@
+{
+  "Новорогожская улица, 5 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+5+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 196082886,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42708989,
+        "lat": "55.7432552",
+        "lon": "37.6799908",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "5, Новорогожская улица, Таганский район, Москва, Центральный федеральный округ, 109544, Россия",
+        "address": {
+          "house_number": "5",
+          "road": "Новорогожская улица",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109544",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7428108",
+          "55.7435580",
+          "37.6793260",
+          "37.6803332"
+        ]
+      },
+      {
+        "place_id": 196069209,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5056155421,
+        "lat": "55.7431155",
+        "lon": "37.6798278",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Центральная библиотека №15 имени В.О. Ключевского",
+        "display_name": "Центральная библиотека №15 имени В.О. Ключевского, 5, Новорогожская улица, Таганский район, Москва, Центральный федеральный округ, 109544, Россия",
+        "address": {
+          "amenity": "Центральная библиотека №15 имени В.О. Ключевского",
+          "house_number": "5",
+          "road": "Новорогожская улица",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109544",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7430655",
+          "55.7431655",
+          "37.6797778",
+          "37.6798778"
+        ]
+      }
+    ]
+  },
+  "Карманицкий переулок, 3А строение 4 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA%2C+3%D0%90+%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5+4+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Вятская улица, 27 строение 42 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%92%D1%8F%D1%82%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+27+%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5+42+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "проспект Андропова, 18 корпус 1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%2C+18+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81+1+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195829777,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 134234787,
+        "lat": "55.6749376",
+        "lon": "37.6626816",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.3629003094109262,
+        "addresstype": "primary",
+        "name": "проспект Андропова",
+        "display_name": "проспект Андропова, район Нагатино-Садовники, Москва, Центральный федеральный округ, 115487, Россия",
+        "address": {
+          "road": "проспект Андропова",
+          "suburb": "район Нагатино-Садовники",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115487",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.6728109",
+          "55.6770559",
+          "37.6622297",
+          "37.6631704"
+        ]
+      },
+      {
+        "place_id": 196237174,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1193096633,
+        "lat": "55.6761679",
+        "lon": "37.6638898",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.3629003094109262,
+        "addresstype": "primary",
+        "name": "проспект Андропова",
+        "display_name": "проспект Андропова, Коломенка, район Нагатинский Затон, Москва, Центральный федеральный округ, 115487, Россия",
+        "address": {
+          "road": "проспект Андропова",
+          "suburb": "Коломенка",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115487",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.6755289",
+          "55.6768068",
+          "37.6637482",
+          "37.6640314"
+        ]
+      },
+      {
+        "place_id": 195826063,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1078926678,
+        "lat": "55.6571665",
+        "lon": "37.6537434",
+        "category": "highway",
+        "type": "primary",
+        "place_rank": 26,
+        "importance": 0.05342241626611731,
+        "addresstype": "primary",
+        "name": "проспект Андропова",
+        "display_name": "проспект Андропова, район Нагатинский Затон, Москва, Центральный федеральный округ, 115522, Россия",
+        "address": {
+          "road": "проспект Андропова",
+          "suburb": "район Нагатинский Затон",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115522",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.6568294",
+          "55.6575036",
+          "37.6536560",
+          "37.6538307"
+        ]
+      }
+    ]
+  },
+  "Поклонная улица, 3 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9F%D0%BE%D0%BA%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+3+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194186520,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 243542016,
+        "lat": "55.7363147",
+        "lon": "37.5339216",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "Корпус E",
+        "display_name": "Корпус E, 3, Поклонная улица, район Дорогомилово, Москва, Центральный федеральный округ, 119136, Россия",
+        "address": {
+          "building": "Корпус E",
+          "house_number": "3",
+          "road": "Поклонная улица",
+          "suburb": "район Дорогомилово",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "119136",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7356841",
+          "55.7369126",
+          "37.5312930",
+          "37.5346598"
+        ]
+      },
+      {
+        "place_id": 195008030,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 10807442036,
+        "lat": "55.7364798",
+        "lon": "37.5343662",
+        "category": "office",
+        "type": "financial_advisor",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "office",
+        "name": "СберЛизинг",
+        "display_name": "СберЛизинг, 3, Поклонная улица, район Дорогомилово, Москва, Центральный федеральный округ, 119136, Россия",
+        "address": {
+          "office": "СберЛизинг",
+          "house_number": "3",
+          "road": "Поклонная улица",
+          "suburb": "район Дорогомилово",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "119136",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7364298",
+          "55.7365298",
+          "37.5343162",
+          "37.5344162"
+        ]
+      },
+      {
+        "place_id": 195679553,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7771380339,
+        "lat": "55.7366374",
+        "lon": "37.5346087",
+        "category": "tourism",
+        "type": "viewpoint",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "tourism",
+        "name": "",
+        "display_name": "3, Поклонная улица, район Дорогомилово, Москва, Центральный федеральный округ, 119136, Россия",
+        "address": {
+          "house_number": "3",
+          "road": "Поклонная улица",
+          "suburb": "район Дорогомилово",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "119136",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7365874",
+          "55.7366874",
+          "37.5345587",
+          "37.5346587"
+        ]
+      }
+    ]
+  },
+  "OldSchool Pub , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=OldSchool+Pub+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Coin Hall , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=Coin+Hall+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Bla Bla Bar , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=Bla+Bla+Bar+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Гримёрка , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%93%D1%80%D0%B8%D0%BC%D1%91%D1%80%D0%BA%D0%B0+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 196188769,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13326320001,
+        "lat": "55.7611218",
+        "lon": "37.6244431",
+        "category": "amenity",
+        "type": "nightclub",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Гримёрка",
+        "display_name": "Гримёрка, 9/6 с1, Пушечная улица, Мещанский район, Москва, Центральный федеральный округ, 109012, Россия",
+        "address": {
+          "amenity": "Гримёрка",
+          "house_number": "9/6 с1",
+          "road": "Пушечная улица",
+          "city_district": "Мещанский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109012",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7610718",
+          "55.7611718",
+          "37.6243931",
+          "37.6244931"
+        ]
+      },
+      {
+        "place_id": 195908524,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 3626437293,
+        "lat": "55.7693312",
+        "lon": "37.6286274",
+        "category": "shop",
+        "type": "beauty",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "shop",
+        "name": "Гримерка",
+        "display_name": "Гримерка, Большой Головин переулок, Мещанский, Мещанский район, Москва, Центральный федеральный округ, 107045, Россия",
+        "address": {
+          "shop": "Гримерка",
+          "road": "Большой Головин переулок",
+          "suburb": "Мещанский",
+          "city_district": "Мещанский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "107045",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7692812",
+          "55.7693812",
+          "37.6285774",
+          "37.6286774"
+        ]
+      },
+      {
+        "place_id": 196366001,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4568154891,
+        "lat": "55.7192379",
+        "lon": "37.7327762",
+        "category": "shop",
+        "type": "hairdresser",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "shop",
+        "name": "Гримерка",
+        "display_name": "Гримерка, 14 к1, Грайвороновская улица, район Текстильщики, Москва, Центральный федеральный округ, 109518, Россия",
+        "address": {
+          "shop": "Гримерка",
+          "house_number": "14 к1",
+          "road": "Грайвороновская улица",
+          "suburb": "район Текстильщики",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109518",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7191879",
+          "55.7192879",
+          "37.7327262",
+          "37.7328262"
+        ]
+      }
+    ]
+  },
+  "Труба Труба , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A2%D1%80%D1%83%D0%B1%D0%B0+%D0%A2%D1%80%D1%83%D0%B1%D0%B0+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195740985,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13286693801,
+        "lat": "55.7275518",
+        "lon": "37.6602726",
+        "category": "historic",
+        "type": "ruins",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "historic",
+        "name": "Печная труба",
+        "display_name": "Печная труба, 1-й Крутицкий переулок, Таганский район, Москва, Центральный федеральный округ, 109044, Россия",
+        "address": {
+          "historic": "Печная труба",
+          "road": "1-й Крутицкий переулок",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109044",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7275018",
+          "55.7276018",
+          "37.6602226",
+          "37.6603226"
+        ]
+      },
+      {
+        "place_id": 195510519,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2872753225,
+        "lat": "55.7352602",
+        "lon": "37.5845948",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Truba",
+        "display_name": "Truba, улица Льва Толстого, Плющиха, 540, район Хамовники, Москва, Центральный федеральный округ, 119034, Россия",
+        "address": {
+          "amenity": "Truba",
+          "road": "улица Льва Толстого",
+          "neighbourhood": "Плющиха",
+          "quarter": "540",
+          "suburb": "район Хамовники",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "119034",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7352102",
+          "55.7353102",
+          "37.5845448",
+          "37.5846448"
+        ]
+      }
+    ]
+  },
+  "Olimpbet Lounge , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=Olimpbet+Lounge+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194788254,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13564537940,
+        "lat": "55.7521391",
+        "lon": "37.5865923",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Olimpbet Lounge",
+        "display_name": "Olimpbet Lounge, 21, улица Новый Арбат, 36, район Арбат, Москва, Центральный федеральный округ, 119019, Россия",
+        "address": {
+          "amenity": "Olimpbet Lounge",
+          "house_number": "21",
+          "road": "улица Новый Арбат",
+          "quarter": "36",
+          "suburb": "район Арбат",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "119019",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7520891",
+          "55.7521891",
+          "37.5865423",
+          "37.5866423"
+        ]
+      }
+    ]
+  },
+  "Колбасофф Митино , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%BE%D1%84%D1%84+%D0%9C%D0%B8%D1%82%D0%B8%D0%BD%D0%BE+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 202560302,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9875840588,
+        "lat": "55.8468549",
+        "lon": "37.3575006",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Колбасофф",
+        "display_name": "Колбасофф, Митинская улица (дублер), район Митино, Москва, Центральный федеральный округ, 125368, Россия",
+        "address": {
+          "amenity": "Колбасофф",
+          "road": "Митинская улица (дублер)",
+          "suburb": "район Митино",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "125368",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8468049",
+          "55.8469049",
+          "37.3574506",
+          "37.3575506"
+        ]
+      }
+    ]
+  },
+  "Summer Punch , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=Summer+Punch+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195769514,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13658795045,
+        "lat": "55.7623321",
+        "lon": "37.6130220",
+        "category": "amenity",
+        "type": "bar",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Summer Punch",
+        "display_name": "Summer Punch, 13, улица Большая Дмитровка, 62, Тверской район, Москва, Центральный федеральный округ, 435678, Россия",
+        "address": {
+          "amenity": "Summer Punch",
+          "house_number": "13",
+          "road": "улица Большая Дмитровка",
+          "quarter": "62",
+          "suburb": "Тверской район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "435678",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7622821",
+          "55.7623821",
+          "37.6129720",
+          "37.6130720"
+        ]
+      }
+    ]
+  },
+  "Золберг , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%97%D0%BE%D0%BB%D0%B1%D0%B5%D1%80%D0%B3+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 196475993,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1732706943,
+        "lat": "55.7276486",
+        "lon": "37.6215513",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Золберг",
+        "display_name": "Золберг, 1-й Люсиновский переулок, район Замоскворечье, Москва, Центральный федеральный округ, 119049, Россия",
+        "address": {
+          "amenity": "Золберг",
+          "road": "1-й Люсиновский переулок",
+          "suburb": "район Замоскворечье",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "119049",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7275986",
+          "55.7276986",
+          "37.6215013",
+          "37.6216013"
+        ]
+      }
+    ]
+  },
+  "Ketch Up , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=Ketch+Up+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195664296,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4701822603,
+        "lat": "55.7611362",
+        "lon": "37.6171686",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Ketch Up",
+        "display_name": "Ketch Up, улица Кузнецкий Мост, 62, Тверской район, Москва, Центральный федеральный округ, 435678, Россия",
+        "address": {
+          "amenity": "Ketch Up",
+          "road": "улица Кузнецкий Мост",
+          "quarter": "62",
+          "suburb": "Тверской район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "435678",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7610862",
+          "55.7611862",
+          "37.6171186",
+          "37.6172186"
+        ]
+      },
+      {
+        "place_id": 195652492,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5721223060,
+        "lat": "55.7590520",
+        "lon": "37.6443073",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Ketch Up",
+        "display_name": "Ketch Up, улица Покровка, Ивановская горка, Басманный район, Москва, Центральный федеральный округ, 101990, Россия",
+        "address": {
+          "amenity": "Ketch Up",
+          "road": "улица Покровка",
+          "neighbourhood": "Ивановская горка",
+          "suburb": "Басманный район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "101990",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7590020",
+          "55.7591020",
+          "37.6442573",
+          "37.6443573"
+        ]
+      }
+    ]
+  },
+  "Лига Пап , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9B%D0%B8%D0%B3%D0%B0+%D0%9F%D0%B0%D0%BF+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194226188,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 941301023,
+        "lat": "55.7653264",
+        "lon": "37.6309256",
+        "category": "amenity",
+        "type": "restaurant",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Лига пап",
+        "display_name": "Лига пап, 24/15, улица Большая Лубянка, Красносельский район, Мещанский район, Москва, Центральный федеральный округ, 101990, Россия",
+        "address": {
+          "amenity": "Лига пап",
+          "house_number": "24/15",
+          "road": "улица Большая Лубянка",
+          "suburb": "Красносельский район",
+          "city_district": "Мещанский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "101990",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7652764",
+          "55.7653764",
+          "37.6308756",
+          "37.6309756"
+        ]
+      }
+    ]
+  },
+  "Unlock Cafe , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=Unlock+Cafe+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "ИЗИ ПАБ Митино , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%98%D0%97%D0%98+%D0%9F%D0%90%D0%91+%D0%9C%D0%B8%D1%82%D0%B8%D0%BD%D0%BE+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195813492,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 7427786339,
+        "lat": "55.8527276",
+        "lon": "37.3510292",
+        "category": "amenity",
+        "type": "pub",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Изи паб",
+        "display_name": "Изи паб, Ангелов переулок, район Митино, Москва, Центральный федеральный округ, 125368, Россия",
+        "address": {
+          "amenity": "Изи паб",
+          "road": "Ангелов переулок",
+          "suburb": "район Митино",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "125368",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8526776",
+          "55.8527776",
+          "37.3509792",
+          "37.3510792"
+        ]
+      }
+    ]
+  },
+  "Большая Спасская, 31 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F+%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F%2C+31+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195060861,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37756993,
+        "lat": "55.7766041",
+        "lon": "37.6441399",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "31, Большая Спасская улица, Красносельский район, Москва, Центральный федеральный округ, 129010, Россия",
+        "address": {
+          "house_number": "31",
+          "road": "Большая Спасская улица",
+          "suburb": "Красносельский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "129010",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7763024",
+          "55.7769076",
+          "37.6438390",
+          "37.6445693"
+        ]
+      }
+    ]
+  },
+  "Фудмолл «ПРИВОЗ», Жулебино , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A4%D1%83%D0%B4%D0%BC%D0%BE%D0%BB%D0%BB+%C2%AB%D0%9F%D0%A0%D0%98%D0%92%D0%9E%D0%97%C2%BB%2C+%D0%96%D1%83%D0%BB%D0%B5%D0%B1%D0%B8%D0%BD%D0%BE+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195754464,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 934310764,
+        "lat": "55.6867517",
+        "lon": "37.8520106",
+        "category": "amenity",
+        "type": "food_court",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Фудмолл «Привоз»",
+        "display_name": "Фудмолл «Привоз», вл5/1, улица Авиаконструктора Миля, район Выхино-Жулебино, Москва, Центральный федеральный округ, 109156, Россия",
+        "address": {
+          "amenity": "Фудмолл «Привоз»",
+          "house_number": "вл5/1",
+          "road": "улица Авиаконструктора Миля",
+          "suburb": "район Выхино-Жулебино",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109156",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.6862765",
+          "55.6872268",
+          "37.8511261",
+          "37.8528950"
+        ]
+      }
+    ]
+  },
+  "Краснопрудная, 1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BF%D1%80%D1%83%D0%B4%D0%BD%D0%B0%D1%8F%2C+1+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195855614,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 37908835,
+        "lat": "55.7771569",
+        "lon": "37.6599262",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1, Краснопрудная улица, Красносельский район, Москва, Центральный федеральный округ, 107140, Россия",
+        "address": {
+          "house_number": "1",
+          "road": "Краснопрудная улица",
+          "suburb": "Красносельский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "107140",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7768144",
+          "55.7774847",
+          "37.6585641",
+          "37.6601706"
+        ]
+      },
+      {
+        "place_id": 195834517,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11615892898,
+        "lat": "55.7768740",
+        "lon": "37.6591989",
+        "category": "amenity",
+        "type": "fast_food",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Шаурму хочу",
+        "display_name": "Шаурму хочу, 1, Краснопрудная улица, Красносельский район, Москва, Центральный федеральный округ, 107140, Россия",
+        "address": {
+          "amenity": "Шаурму хочу",
+          "house_number": "1",
+          "road": "Краснопрудная улица",
+          "suburb": "Красносельский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "107140",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7768240",
+          "55.7769240",
+          "37.6591489",
+          "37.6592489"
+        ]
+      },
+      {
+        "place_id": 195855036,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11615892900,
+        "lat": "55.7768619",
+        "lon": "37.6592700",
+        "category": "shop",
+        "type": "money_lender",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "shop",
+        "name": "СрочноДеньги",
+        "display_name": "СрочноДеньги, 1, Краснопрудная улица, Красносельский район, Москва, Центральный федеральный округ, 107140, Россия",
+        "address": {
+          "shop": "СрочноДеньги",
+          "house_number": "1",
+          "road": "Краснопрудная улица",
+          "suburb": "Красносельский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "107140",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7768119",
+          "55.7769119",
+          "37.6592200",
+          "37.6593200"
+        ]
+      }
+    ]
+  },
+  "Октябрьская, 58 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C+58+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194822258,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 15339303,
+        "lat": "55.7948354",
+        "lon": "37.6133911",
+        "category": "building",
+        "type": "commercial",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "58, Октябрьская улица, район Марьина Роща, Москва, Центральный федеральный округ, 127521, Россия",
+        "address": {
+          "house_number": "58",
+          "road": "Октябрьская улица",
+          "suburb": "район Марьина Роща",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "127521",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7945694",
+          "55.7951659",
+          "37.6131676",
+          "37.6136155"
+        ]
+      }
+    ]
+  },
+  "Большая Садовая, 1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F+%D0%A1%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F%2C+1+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195837274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 32113444,
+        "lat": "55.7665364",
+        "lon": "37.5909165",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1, Большая Садовая улица, 48, Пресненский район, Москва, Центральный федеральный округ, 123001, Россия",
+        "address": {
+          "house_number": "1",
+          "road": "Большая Садовая улица",
+          "quarter": "48",
+          "suburb": "Пресненский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "123001",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7660888",
+          "55.7667900",
+          "37.5899474",
+          "37.5912640"
+        ]
+      },
+      {
+        "place_id": 195569805,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11283299182,
+        "lat": "55.7663294",
+        "lon": "37.5907152",
+        "category": "shop",
+        "type": "confectionery",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "shop",
+        "name": "Бобруйский зефир",
+        "display_name": "Бобруйский зефир, 1, Большая Садовая улица, 48, Пресненский район, Москва, Центральный федеральный округ, 123001, Россия",
+        "address": {
+          "shop": "Бобруйский зефир",
+          "house_number": "1",
+          "road": "Большая Садовая улица",
+          "quarter": "48",
+          "suburb": "Пресненский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "123001",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7662794",
+          "55.7663794",
+          "37.5906652",
+          "37.5907652"
+        ]
+      },
+      {
+        "place_id": 195625313,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2206004975,
+        "lat": "55.7662264",
+        "lon": "37.5905692",
+        "category": "amenity",
+        "type": "pharmacy",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Ригла",
+        "display_name": "Ригла, 1, Большая Садовая улица, 48, Пресненский район, Москва, Центральный федеральный округ, 123001, Россия",
+        "address": {
+          "amenity": "Ригла",
+          "house_number": "1",
+          "road": "Большая Садовая улица",
+          "quarter": "48",
+          "suburb": "Пресненский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "123001",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7661764",
+          "55.7662764",
+          "37.5905192",
+          "37.5906192"
+        ]
+      }
+    ]
+  },
+  "Coffeeshop, Новослободская, 23 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=Coffeeshop%2C+%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%2C+23+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "1-й Хорошёвский пр., 14к3 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=1-%D0%B9+%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80.%2C+14%D0%BA3+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195407136,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 34869666,
+        "lat": "55.7756127",
+        "lon": "37.5443055",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "14 к3, 1-й Хорошёвский проезд, Хорошёвский район, Москва, Центральный федеральный округ, 125284, Россия",
+        "address": {
+          "house_number": "14 к3",
+          "road": "1-й Хорошёвский проезд",
+          "suburb": "Хорошёвский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "125284",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7754236",
+          "55.7757934",
+          "37.5439500",
+          "37.5446449"
+        ]
+      }
+    ]
+  },
+  "Коминтерна, 15 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%2C+15+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195555794,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 14472919,
+        "lat": "55.8701227",
+        "lon": "37.6877914",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "15, улица Коминтерна, Лосиноостровский район, Москва, Центральный федеральный округ, 129327, Россия",
+        "address": {
+          "house_number": "15",
+          "road": "улица Коминтерна",
+          "suburb": "Лосиноостровский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "129327",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8695656",
+          "55.8724908",
+          "37.6860015",
+          "37.6907578"
+        ]
+      },
+      {
+        "place_id": 195666760,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12890524007,
+        "lat": "55.8721549",
+        "lon": "37.6901078",
+        "category": "shop",
+        "type": "beauty",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "shop",
+        "name": "Beauty day",
+        "display_name": "Beauty day, 15, улица Коминтерна, Лосиноостровский район, Москва, Центральный федеральный округ, 129346, Россия",
+        "address": {
+          "shop": "Beauty day",
+          "house_number": "15",
+          "road": "улица Коминтерна",
+          "suburb": "Лосиноостровский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "129346",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8721049",
+          "55.8722049",
+          "37.6900578",
+          "37.6901578"
+        ]
+      },
+      {
+        "place_id": 195704153,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 12890486403,
+        "lat": "55.8716515",
+        "lon": "37.6903501",
+        "category": "amenity",
+        "type": "doctors",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "CMD",
+        "display_name": "CMD, 15, улица Коминтерна, Лосиноостровский район, Москва, Центральный федеральный округ, 129346, Россия",
+        "address": {
+          "amenity": "CMD",
+          "house_number": "15",
+          "road": "улица Коминтерна",
+          "suburb": "Лосиноостровский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "129346",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8716015",
+          "55.8717015",
+          "37.6903001",
+          "37.6904001"
+        ]
+      }
+    ]
+  },
+  "ВДНХ, павильон №61 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%92%D0%94%D0%9D%D0%A5%2C+%D0%BF%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+%E2%84%9661+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Большая Почтовая, 16 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F+%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%2C+16+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 193345167,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 54057293,
+        "lat": "55.7758184",
+        "lon": "37.6927227",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "16, Большая Почтовая улица, Бауманка, Басманный район, Москва, Центральный федеральный округ, 105082, Россия",
+        "address": {
+          "house_number": "16",
+          "road": "Большая Почтовая улица",
+          "suburb": "Бауманка",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "105082",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7755982",
+          "55.7760796",
+          "37.6923275",
+          "37.6931922"
+        ]
+      },
+      {
+        "place_id": 195427216,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9120354955,
+        "lat": "55.7759617",
+        "lon": "37.6929078",
+        "category": "office",
+        "type": "property_management",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "office",
+        "name": "ОДС-16",
+        "display_name": "ОДС-16, 16, Большая Почтовая улица, Бауманка, Басманный район, Москва, Центральный федеральный округ, 105082, Россия",
+        "address": {
+          "office": "ОДС-16",
+          "house_number": "16",
+          "road": "Большая Почтовая улица",
+          "suburb": "Бауманка",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "105082",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7759117",
+          "55.7760117",
+          "37.6928578",
+          "37.6929578"
+        ]
+      },
+      {
+        "place_id": 195396198,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 9886966846,
+        "lat": "55.7757656",
+        "lon": "37.6925649",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Отдел семейного чтения - Библиотека-читальня им. А.С.Пушкина",
+        "display_name": "Отдел семейного чтения - Библиотека-читальня им. А.С.Пушкина, 16, Большая Почтовая улица, Бауманка, Басманный район, Москва, Центральный федеральный округ, 105082, Россия",
+        "address": {
+          "amenity": "Отдел семейного чтения - Библиотека-читальня им. А.С.Пушкина",
+          "house_number": "16",
+          "road": "Большая Почтовая улица",
+          "suburb": "Бауманка",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "105082",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7757156",
+          "55.7758156",
+          "37.6925149",
+          "37.6926149"
+        ]
+      }
+    ]
+  },
+  "Библиотека №21, Клары Цеткин, 11к2 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%E2%84%9621%2C+%D0%9A%D0%BB%D0%B0%D1%80%D1%8B+%D0%A6%D0%B5%D1%82%D0%BA%D0%B8%D0%BD%2C+11%D0%BA2+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Пивотека 465, Новоданиловская наб., 4А , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9F%D0%B8%D0%B2%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+465%2C+%D0%9D%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1.%2C+4%D0%90+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Покровский бульвар, 11с6 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%2C+11%D1%816+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195430110,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 8811315,
+        "lat": "55.7587908",
+        "lon": "37.6456613",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.05342241626611731,
+        "addresstype": "secondary",
+        "name": "Покровский бульвар",
+        "display_name": "Покровский бульвар, Ивановская горка, Басманный район, Москва, Центральный федеральный округ, 101000, Россия",
+        "address": {
+          "road": "Покровский бульвар",
+          "neighbourhood": "Ивановская горка",
+          "suburb": "Басманный район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "101000",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7582856",
+          "55.7592756",
+          "37.6453078",
+          "37.6459949"
+        ]
+      },
+      {
+        "place_id": 194137678,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 677332578,
+        "lat": "55.7574020",
+        "lon": "37.6474313",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.05342241626611731,
+        "addresstype": "secondary",
+        "name": "Покровский бульвар",
+        "display_name": "Покровский бульвар, Ивановская горка, Бауманка, Басманный район, Москва, Центральный федеральный округ, 105062, Россия",
+        "address": {
+          "road": "Покровский бульвар",
+          "neighbourhood": "Ивановская горка",
+          "suburb": "Бауманка",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "105062",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7569842",
+          "55.7578425",
+          "37.6470828",
+          "37.6478105"
+        ]
+      },
+      {
+        "place_id": 195441719,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 677332579,
+        "lat": "55.7573527",
+        "lon": "37.6468307",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.05342241626611731,
+        "addresstype": "secondary",
+        "name": "Покровский бульвар",
+        "display_name": "Покровский бульвар, Ивановская горка, Бауманка, Басманный район, Москва, Центральный федеральный округ, 109028, Россия",
+        "address": {
+          "road": "Покровский бульвар",
+          "neighbourhood": "Ивановская горка",
+          "suburb": "Бауманка",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109028",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7568386",
+          "55.7578571",
+          "37.6463140",
+          "37.6473377"
+        ]
+      }
+    ]
+  },
+  "Чистопрудный бульвар, 23с1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D1%80%D1%83%D0%B4%D0%BD%D1%8B%D0%B9+%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%2C+23%D1%811+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195553211,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 42503363,
+        "lat": "55.7603177",
+        "lon": "37.6468208",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "23 с1, Чистопрудный бульвар, Ивановская горка, Басманный район, Москва, Центральный федеральный округ, 105062, Россия",
+        "address": {
+          "house_number": "23 с1",
+          "road": "Чистопрудный бульвар",
+          "neighbourhood": "Ивановская горка",
+          "suburb": "Басманный район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "105062",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7601543",
+          "55.7604926",
+          "37.6465000",
+          "37.6470741"
+        ]
+      }
+    ]
+  },
+  "КЦ «Строгино» , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D0%A6+%C2%AB%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B8%D0%BD%D0%BE%C2%BB+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Яузская, 5 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%AF%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F%2C+5+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195626019,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1839419,
+        "lat": "55.7495025",
+        "lon": "37.6451029",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "Бизнес-центр \"Яузская, 5\"",
+        "display_name": "Бизнес-центр \"Яузская, 5\", 5, Яузская улица, Таганский район, Москва, Центральный федеральный округ, 109028, Россия",
+        "address": {
+          "building": "Бизнес-центр \"Яузская, 5\"",
+          "house_number": "5",
+          "road": "Яузская улица",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109028",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7491602",
+          "55.7499107",
+          "37.6446074",
+          "37.6456042"
+        ]
+      }
+    ]
+  },
+  "Николоямская, 1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D1%8F%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%2C+1+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195512186,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13155903974,
+        "lat": "55.7483168",
+        "lon": "37.6477317",
+        "category": "office",
+        "type": "educational_institution",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "office",
+        "name": "Академия Рудомино",
+        "display_name": "Академия Рудомино, 1, Николоямская улица, Таганский район, Москва, Центральный федеральный округ, 109240, Россия",
+        "address": {
+          "office": "Академия Рудомино",
+          "house_number": "1",
+          "road": "Николоямская улица",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109240",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7482668",
+          "55.7483668",
+          "37.6476817",
+          "37.6477817"
+        ]
+      },
+      {
+        "place_id": 195614599,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13092684354,
+        "lat": "55.7485136",
+        "lon": "37.6474960",
+        "category": "amenity",
+        "type": "bicycle_parking",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "",
+        "display_name": "1, Николоямская улица, Таганский район, Москва, Центральный федеральный округ, 109240, Россия",
+        "address": {
+          "house_number": "1",
+          "road": "Николоямская улица",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109240",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7484636",
+          "55.7485636",
+          "37.6474460",
+          "37.6475460"
+        ]
+      },
+      {
+        "place_id": 195634985,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 13092684353,
+        "lat": "55.7484304",
+        "lon": "37.6476103",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Российская государственная библиотека искусств",
+        "display_name": "Российская государственная библиотека искусств, 1, Николоямская улица, Таганский район, Москва, Центральный федеральный округ, 109240, Россия",
+        "address": {
+          "amenity": "Российская государственная библиотека искусств",
+          "house_number": "1",
+          "road": "Николоямская улица",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109240",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7483804",
+          "55.7484804",
+          "37.6475603",
+          "37.6476603"
+        ]
+      }
+    ]
+  },
+  "Страстной бульвар, 6с1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A1%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%2C+6%D1%811+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195592191,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 19206804,
+        "lat": "55.7657204",
+        "lon": "37.6086467",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "6 с1, Страстной бульвар, 50, Тверской район, Москва, Центральный федеральный округ, 125009, Россия",
+        "address": {
+          "house_number": "6 с1",
+          "road": "Страстной бульвар",
+          "quarter": "50",
+          "suburb": "Тверской район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "125009",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7655371",
+          "55.7659171",
+          "37.6082604",
+          "37.6090121"
+        ]
+      },
+      {
+        "place_id": 196032600,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 11808199935,
+        "lat": "55.7656682",
+        "lon": "37.6082940",
+        "category": "amenity",
+        "type": "fast_food",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Пан Круассан",
+        "display_name": "Пан Круассан, 6 с1, Страстной бульвар, 50, Тверской район, Москва, Центральный федеральный округ, 125009, Россия",
+        "address": {
+          "amenity": "Пан Круассан",
+          "house_number": "6 с1",
+          "road": "Страстной бульвар",
+          "quarter": "50",
+          "suburb": "Тверской район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "125009",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7656182",
+          "55.7657182",
+          "37.6082440",
+          "37.6083440"
+        ]
+      },
+      {
+        "place_id": 195618710,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 6277177508,
+        "lat": "55.7658404",
+        "lon": "37.6086676",
+        "category": "amenity",
+        "type": "fast_food",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Food rec.",
+        "display_name": "Food rec., 6 с1, Страстной бульвар, 50, Тверской район, Москва, Центральный федеральный округ, 125009, Россия",
+        "address": {
+          "amenity": "Food rec.",
+          "house_number": "6 с1",
+          "road": "Страстной бульвар",
+          "quarter": "50",
+          "suburb": "Тверской район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "125009",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7657904",
+          "55.7658904",
+          "37.6086176",
+          "37.6087176"
+        ]
+      }
+    ]
+  },
+  "Станиславского, 15 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C+15+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194432518,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 290274250,
+        "lat": "55.7449558",
+        "lon": "37.6613500",
+        "category": "building",
+        "type": "retail",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "15, улица Станиславского, Таганский район, Москва, Центральный федеральный округ, 109004, Россия",
+        "address": {
+          "house_number": "15",
+          "road": "улица Станиславского",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109004",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7448319",
+          "55.7450550",
+          "37.6611865",
+          "37.6615479"
+        ]
+      }
+    ]
+  },
+  "Новокузнецкая, 1с1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BA%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%D1%8F%2C+1%D1%811+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194439744,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 406973071,
+        "lat": "55.7403066",
+        "lon": "37.6300563",
+        "category": "building",
+        "type": "commercial",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "1 с1, Новокузнецкая улица, район Замоскворечье, Москва, Центральный федеральный округ, 115035, Россия",
+        "address": {
+          "house_number": "1 с1",
+          "road": "Новокузнецкая улица",
+          "suburb": "район Замоскворечье",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115035",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7401890",
+          "55.7404426",
+          "37.6298934",
+          "37.6302528"
+        ]
+      }
+    ]
+  },
+  "КЦ «ЗИЛ» , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D0%A6+%C2%AB%D0%97%D0%98%D0%9B%C2%BB+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "ДК «Братеево» , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%94%D0%9A+%C2%AB%D0%91%D1%80%D0%B0%D1%82%D0%B5%D0%B5%D0%B2%D0%BE%C2%BB+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 196113507,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5073630018,
+        "lat": "55.6333639",
+        "lon": "37.7669422",
+        "category": "amenity",
+        "type": "community_centre",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Дом культуры \"Братеево\"",
+        "display_name": "Дом культуры \"Братеево\", Ключевая улица, район Братеево, Москва, Центральный федеральный округ, 115612, Россия",
+        "address": {
+          "amenity": "Дом культуры \"Братеево\"",
+          "road": "Ключевая улица",
+          "suburb": "район Братеево",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115612",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.6333139",
+          "55.6334139",
+          "37.7668922",
+          "37.7669922"
+        ]
+      }
+    ]
+  },
+  "Краснохолмская наб., 1/15 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1.%2C+1%2F15+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195932073,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 46429562,
+        "lat": "55.7314750",
+        "lon": "37.6520882",
+        "category": "highway",
+        "type": "secondary",
+        "place_rank": 26,
+        "importance": 0.05342241626611731,
+        "addresstype": "secondary",
+        "name": "Краснохолмская набережная",
+        "display_name": "Краснохолмская набережная, Таганский район, Москва, Центральный федеральный округ, 115172, Россия",
+        "address": {
+          "road": "Краснохолмская набережная",
+          "suburb": "Таганский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115172",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7296285",
+          "55.7342865",
+          "37.6496966",
+          "37.6553106"
+        ]
+      }
+    ]
+  },
+  "1-й Зачатьевский пер., 4 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=1-%D0%B9+%D0%97%D0%B0%D1%87%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D1%80.%2C+4+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 196115976,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 52434933,
+        "lat": "55.7397899",
+        "lon": "37.6038412",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4, 1-й Зачатьевский переулок, 32, район Хамовники, Москва, Центральный федеральный округ, 119034, Россия",
+        "address": {
+          "house_number": "4",
+          "road": "1-й Зачатьевский переулок",
+          "quarter": "32",
+          "suburb": "район Хамовники",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "119034",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7395548",
+          "55.7400323",
+          "37.6035208",
+          "37.6047966"
+        ]
+      }
+    ]
+  },
+  "Карманицкий переулок, 3Ас4 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA%2C+3%D0%90%D1%814+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "Вятская улица, 27с42 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%92%D1%8F%D1%82%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+27%D1%8142+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195226450,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 28733158,
+        "lat": "55.7970366",
+        "lon": "37.5797600",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "27 с42, Вятская улица, Савёловский район, Москва, Центральный федеральный округ, 127015, Россия",
+        "address": {
+          "house_number": "27 с42",
+          "road": "Вятская улица",
+          "suburb": "Савёловский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "127015",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7968829",
+          "55.7973493",
+          "37.5793675",
+          "37.5801535"
+        ]
+      }
+    ]
+  },
+  "проспект Андропова, 18к1 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%2C+18%D0%BA1+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195818034,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 125308206,
+        "lat": "55.6950025",
+        "lon": "37.6628631",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "Бизнес-центр \"Ньютон\"",
+        "display_name": "Бизнес-центр \"Ньютон\", 18 к1, проспект Андропова, Даниловский район, Москва, Центральный федеральный округ, 115432, Россия",
+        "address": {
+          "building": "Бизнес-центр \"Ньютон\"",
+          "house_number": "18 к1",
+          "road": "проспект Андропова",
+          "suburb": "Даниловский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115432",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.6947394",
+          "55.6952866",
+          "37.6624178",
+          "37.6633298"
+        ]
+      }
+    ]
+  },
+  "Привоз Жулебино , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9F%D1%80%D0%B8%D0%B2%D0%BE%D0%B7+%D0%96%D1%83%D0%BB%D0%B5%D0%B1%D0%B8%D0%BD%D0%BE+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194832556,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 934310764,
+        "lat": "55.6867517",
+        "lon": "37.8520106",
+        "category": "amenity",
+        "type": "food_court",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Фудмолл «Привоз»",
+        "display_name": "Фудмолл «Привоз», вл5/1, улица Авиаконструктора Миля, район Выхино-Жулебино, Москва, Центральный федеральный округ, 109156, Россия",
+        "address": {
+          "amenity": "Фудмолл «Привоз»",
+          "house_number": "вл5/1",
+          "road": "улица Авиаконструктора Миля",
+          "suburb": "район Выхино-Жулебино",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "109156",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.6862765",
+          "55.6872268",
+          "37.8511261",
+          "37.8528950"
+        ]
+      }
+    ]
+  },
+  "Новослободская улица, 23 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+23+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195431681,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 19012014,
+        "lat": "55.7815096",
+        "lon": "37.5985008",
+        "category": "building",
+        "type": "office",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "23, Новослободская улица, Тверской район, Москва, Центральный федеральный округ, 127055, Россия",
+        "address": {
+          "house_number": "23",
+          "road": "Новослободская улица",
+          "suburb": "Тверской район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "127055",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7811386",
+          "55.7818349",
+          "37.5977492",
+          "37.5989424"
+        ]
+      },
+      {
+        "place_id": 194860861,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 1262064976,
+        "lat": "55.7812365",
+        "lon": "37.5988700",
+        "category": "amenity",
+        "type": "theatre",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Шалом",
+        "display_name": "Шалом, 23, Новослободская улица, Тверской район, Москва, Центральный федеральный округ, 127055, Россия",
+        "address": {
+          "amenity": "Шалом",
+          "house_number": "23",
+          "road": "Новослободская улица",
+          "suburb": "Тверской район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "127055",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7811865",
+          "55.7812865",
+          "37.5988200",
+          "37.5989200"
+        ]
+      }
+    ]
+  },
+  "ВДНХ Центросоюз , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%92%D0%94%D0%9D%D0%A5+%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D1%81%D0%BE%D1%8E%D0%B7+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": []
+  },
+  "улица Клары Цеткин, 11к2 , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%D0%9A%D0%BB%D0%B0%D1%80%D1%8B+%D0%A6%D0%B5%D1%82%D0%BA%D0%B8%D0%BD%2C+11%D0%BA2+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195626030,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 8035786,
+        "lat": "55.8193806",
+        "lon": "37.5164350",
+        "category": "building",
+        "type": "apartments",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "11 к2, улица Клары Цеткин, Войковский район, Москва, Центральный федеральный округ, 127299, Россия",
+        "address": {
+          "house_number": "11 к2",
+          "road": "улица Клары Цеткин",
+          "suburb": "Войковский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "127299",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8190882",
+          "55.8196917",
+          "37.5159771",
+          "37.5168649"
+        ]
+      }
+    ]
+  },
+  "Новоданиловская набережная, 4А , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9D%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+4%D0%90+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194435502,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 161871025,
+        "lat": "55.7010091",
+        "lon": "37.6253067",
+        "category": "building",
+        "type": "commercial",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4А, Новоданиловская набережная, Канатчиково, Донской район, Москва, Центральный федеральный округ, 117105, Россия",
+        "address": {
+          "house_number": "4А",
+          "road": "Новоданиловская набережная",
+          "suburb": "Канатчиково",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "117105",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7007380",
+          "55.7012799",
+          "37.6247688",
+          "37.6258445"
+        ]
+      }
+    ]
+  },
+  "Культурный центр Строгино , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80+%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B8%D0%BD%D0%BE+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 195808916,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 721580042,
+        "lat": "55.8095843",
+        "lon": "37.4023491",
+        "category": "amenity",
+        "type": "community_centre",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "amenity",
+        "name": "Культурный центр «Строгино»",
+        "display_name": "Культурный центр «Строгино», 8, улица Маршала Катукова (дублёр), район Строгино, Москва, Центральный федеральный округ, 123592, Россия",
+        "address": {
+          "amenity": "Культурный центр «Строгино»",
+          "house_number": "8",
+          "road": "улица Маршала Катукова (дублёр)",
+          "suburb": "район Строгино",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "123592",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8092162",
+          "55.8099523",
+          "37.4016935",
+          "37.4030046"
+        ]
+      },
+      {
+        "place_id": 195789707,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1171454002,
+        "lat": "55.8097708",
+        "lon": "37.4046780",
+        "category": "railway",
+        "type": "platform",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "railway",
+        "name": "Культурный центр «Строгино»",
+        "display_name": "Культурный центр «Строгино», улица Маршала Катукова, район Строгино, Москва, Центральный федеральный округ, 123181, Россия",
+        "address": {
+          "railway": "Культурный центр «Строгино»",
+          "road": "улица Маршала Катукова",
+          "suburb": "район Строгино",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "123181",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8096238",
+          "55.8099177",
+          "37.4044653",
+          "37.4048907"
+        ]
+      },
+      {
+        "place_id": 195847855,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 638952859,
+        "lat": "55.8100640",
+        "lon": "37.4041278",
+        "category": "railway",
+        "type": "tram_stop",
+        "place_rank": 30,
+        "importance": 8.908293278396304e-05,
+        "addresstype": "railway",
+        "name": "Культурный центр «Строгино»",
+        "display_name": "Культурный центр «Строгино», улица Маршала Катукова, район Строгино, Москва, Центральный федеральный округ, 123181, Россия",
+        "address": {
+          "railway": "Культурный центр «Строгино»",
+          "road": "улица Маршала Катукова",
+          "suburb": "район Строгино",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "123181",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.8100140",
+          "55.8101140",
+          "37.4040778",
+          "37.4041778"
+        ]
+      }
+    ]
+  },
+  "Культурный центр ЗИЛ , Москва": {
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80+%D0%97%D0%98%D0%9B+%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&format=jsonv2&limit=3&addressdetails=1&countrycodes=ru&viewbox=37.0%2C56.1%2C38.2%2C55.1&bounded=1",
+    "results": [
+      {
+        "place_id": 194440261,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 93943569,
+        "lat": "55.7144688",
+        "lon": "37.6578813",
+        "category": "amenity",
+        "type": "community_centre",
+        "place_rank": 30,
+        "importance": 0.2702882353650111,
+        "addresstype": "amenity",
+        "name": "Культурный центр ЗИЛ",
+        "display_name": "Культурный центр ЗИЛ, 4 к1, Восточная улица, Даниловский район, Москва, Центральный федеральный округ, 115280, Россия",
+        "address": {
+          "amenity": "Культурный центр ЗИЛ",
+          "house_number": "4 к1",
+          "road": "Восточная улица",
+          "suburb": "Даниловский район",
+          "city": "Москва",
+          "state": "Москва",
+          "ISO3166-2-lvl4": "RU-MOW",
+          "region": "Центральный федеральный округ",
+          "postcode": "115280",
+          "country": "Россия",
+          "country_code": "ru"
+        },
+        "boundingbox": [
+          "55.7137873",
+          "55.7151970",
+          "37.6567924",
+          "37.6591260"
+        ]
+      }
+    ]
+  }
+}

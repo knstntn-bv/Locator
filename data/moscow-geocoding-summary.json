@@ -1,0 +1,11 @@
+{
+  "total_events": 81,
+  "requested_events": 58,
+  "coordinates_filled": 58,
+  "not_found": [],
+  "ambiguous": [],
+  "attribution": "© OpenStreetMap contributors, ODbL",
+  "provider": "https://nominatim.openstreetmap.org/",
+  "note": "Координаты API для тестирования; при совпадении адреса у нескольких объектов в пределах примерно 150 м выбран первый объект. Это не проверка проведения события.",
+  "user_provided_coordinates": 11
+}
