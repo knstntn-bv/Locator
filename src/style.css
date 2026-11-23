@@ -12,7 +12,15 @@ input { width: 100%; min-height: 44px; border: 1px solid #c6d2d8; border-radius:
 input:focus-visible { outline: 2px solid #247c83; outline-offset: 2px; }
 .hint { font-size: 11px; color: #62747f; }
 #status { margin-bottom: 0; font-size: 13px; line-height: 1.5; }
-.maplibregl-popup-content { padding: 18px; border-radius: 12px; }
+.maplibregl-popup-content { padding: 18px; border-radius: 12px; min-width: 0; overflow-wrap: anywhere; }
 .maplibregl-popup-content h2 { margin: 0 12px 10px 0; font-size: 18px; }
 .maplibregl-popup-content p { margin: 8px 0 0; line-height: 1.5; white-space: pre-wrap; }
 @media (max-width: 480px) { .panel { top: 12px; left: 12px; width: calc(100% - 24px); padding: 16px; } }
+@media (max-width: 480px) {
+  .maplibregl-popup { max-width: min(260px, calc(100vw - 32px)) !important; }
+  .maplibregl-popup-content { padding: 12px; border-radius: 10px; font-size: 12px; }
+  .maplibregl-popup-content article { max-height: min(260px, 40dvh); overflow-y: auto; }
+  .maplibregl-popup-content h2 { margin: 0 20px 6px 0; font-size: 15px; line-height: 1.25; }
+  .maplibregl-popup-content p { margin-top: 6px; line-height: 1.35; }
+  .maplibregl-popup-close-button { width: 32px; height: 32px; font-size: 20px; }
+}

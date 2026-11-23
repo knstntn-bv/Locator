@@ -29,6 +29,26 @@ let markers: Marker[] = [];
 let request: AbortController | undefined;
 let version = 0;
 let firstResult = true;
+let activePopup: Popup | undefined;
+
+function keepPopupInView() {
+  const popup = activePopup;
+  if (!popup?.isOpen()) return;
+  // Measure after MapLibre positions the popup and applies its anchor transform.
+  requestAnimationFrame(() => {
+    if (popup !== activePopup || !popup.isOpen()) return;
+    const card = popup.getElement().getBoundingClientRect();
+    const canvas = map.getContainer().getBoundingClientRect();
+    const left = Math.max(0, canvas.left) + 12;
+    const right = Math.min(window.innerWidth, canvas.right) - 12;
+    const offset = card.left < left ? card.left - left : card.right > right ? card.right - right : 0;
+    if (Math.abs(offset) > 1) {
+      map.panBy([offset, 0], { duration: 220 });
+    }
+  });
+}
+
+map.on('resize', keepPopupInView);
 
 function popupContent(event: Event) {
   const root = document.createElement('article');
@@ -58,9 +78,18 @@ async function refresh() {
     const events = await loadEvents(bounds.from, bounds.until, request.signal);
     if (current !== version) return;
     markers = events.map(event => {
+      const popup = new Popup({ offset: 25, maxWidth: 'min(300px, calc(100vw - 32px))' })
+        .setDOMContent(popupContent(event));
+      popup.on('open', () => {
+        activePopup = popup;
+        keepPopupInView();
+      });
+      popup.on('close', () => {
+        if (activePopup === popup) activePopup = undefined;
+      });
       const marker = new Marker({ color: '#df593d' })
         .setLngLat([event.longitude, event.latitude])
-        .setPopup(new Popup({ offset: 25, maxWidth: '320px' }).setDOMContent(popupContent(event)))
+        .setPopup(popup)
         .addTo(map);
       marker.getElement().setAttribute('aria-label', event.title);
       return marker;
