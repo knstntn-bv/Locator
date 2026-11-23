@@ -3,6 +3,7 @@ import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import './style.css';
 import { dateBounds, dateInputValue } from './dates';
+import { formatEventDates } from './event-dates';
 import { loadEvents, type Event } from './events';
 
 setWorkerUrl(workerUrl);
@@ -34,10 +35,7 @@ function popupContent(event: Event) {
   const title = document.createElement('h2');
   title.textContent = event.title;
   const time = document.createElement('p');
-  const formatter = new Intl.DateTimeFormat('ru-RU', {
-    dateStyle: 'medium', timeStyle: 'short', timeZone: event.timezone,
-  });
-  time.textContent = `${formatter.format(new Date(event.starts_at))} — ${formatter.format(new Date(event.ends_at))} (${event.timezone})`;
+  time.textContent = formatEventDates(event);
   const place = document.createElement('p');
   place.textContent = event.location_name;
   const description = document.createElement('p');

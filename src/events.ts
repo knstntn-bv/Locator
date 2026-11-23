@@ -4,8 +4,10 @@ export interface Event {
   id: string;
   title: string;
   description: string;
-  starts_at: string;
-  ends_at: string;
+  start_date: string;
+  end_date: string;
+  start_time: string | null;
+  end_time: string | null;
   timezone: string;
   location_name: string;
   latitude: number;
@@ -25,9 +27,9 @@ export async function loadEvents(from: string, until: string, signal: AbortSigna
   const pageSize = 500;
   for (let offset = 0; ; offset += pageSize) {
     const { data, error } = await client.from('events')
-      .select('id,title,description,starts_at,ends_at,timezone,location_name,latitude,longitude')
-      .lt('starts_at', until).gt('ends_at', from)
-      .order('starts_at').order('id').range(offset, offset + pageSize - 1).abortSignal(signal);
+      .select('id,title,description,start_date,end_date,start_time,end_time,timezone,location_name,latitude,longitude')
+      .lte('start_date', until).gte('end_date', from)
+      .order('start_date').order('id').range(offset, offset + pageSize - 1).abortSignal(signal);
     if (error) throw new Error('Не удалось загрузить события. Проверьте подключение и SQL-миграции Supabase.');
     events.push(...data as Event[]);
     if (data.length < pageSize) return events;
