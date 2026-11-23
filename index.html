@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#172b3a" />
+    <title>Eventr — события на карте</title>
+  </head>
+  <body>
+    <main id="app">
+      <div id="map" aria-label="Карта событий"></div>
+      <section class="panel" aria-label="Фильтр событий">
+        <header><strong>Eventr<span> / proof of concept</span></strong><p>События на карте</p></header>
+        <div class="dates">
+          <label>С даты<input id="start" type="date" required /></label>
+          <label>По дату<input id="end" type="date" required /></label>
+        </div>
+        <p class="hint">Включая обе даты · по вашему часовому поясу</p>
+        <p id="status" role="status" aria-live="polite"></p>
+      </section>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
