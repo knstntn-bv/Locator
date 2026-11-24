@@ -12,6 +12,7 @@ const start = document.querySelector<HTMLInputElement>('#start')!;
 const end = document.querySelector<HTMLInputElement>('#end')!;
 const today = new Date();
 const weekEnd = new Date(today);
+// Seven calendar days including today; time of day does not affect filtering.
 weekEnd.setDate(weekEnd.getDate() + 6);
 start.value = dateInputValue(today);
 end.value = dateInputValue(weekEnd);
@@ -28,7 +29,6 @@ map.on('error', () => {
 let markers: Marker[] = [];
 let request: AbortController | undefined;
 let version = 0;
-let firstResult = true;
 let activePopup: Popup | undefined;
 
 function keepPopupInView() {
@@ -95,14 +95,6 @@ async function refresh() {
       return marker;
     });
     status.textContent = events.length ? `Событий: ${events.length}. Нажмите на метку, чтобы узнать больше.` : 'В этом интервале событий нет.';
-    if (firstResult && events.length) {
-      firstResult = false;
-      const lngs = events.map(event => event.longitude);
-      const lats = events.map(event => event.latitude);
-      map.fitBounds([[Math.min(...lngs), Math.min(...lats)], [Math.max(...lngs), Math.max(...lats)]], {
-        padding: { top: 240, bottom: 60, left: 40, right: 40 }, maxZoom: 13, duration: 0,
-      });
-    }
   } catch (error) {
     if (current === version) status.textContent = (error as Error).message;
   }

@@ -16,10 +16,9 @@ insert into public.events (
 
 Дата рассчитана по расписанию: По средам, до конца декабря.
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662/sessions/4163549
+Подробнее: https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-25', date '2026-11-25', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-25', date '2026-11-25', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
   -- moscow-2026-001-2026-12-02
   ('c2b5f16e-82ac-56c5-b134-feb3b93ead1c'::uuid, 'Японский маджонг и го', 'Данные для тестирования Locator.
 
@@ -27,10 +26,9 @@ https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prod
 
 Дата рассчитана по расписанию: По средам, до конца декабря.
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662/sessions/4163549
+Подробнее: https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-02', date '2026-12-02', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-02', date '2026-12-02', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
   -- moscow-2026-001-2026-12-09
   ('cbb4a688-7b91-5576-a5b2-acfaff79a025'::uuid, 'Японский маджонг и го', 'Данные для тестирования Locator.
 
@@ -38,10 +36,9 @@ https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prod
 
 Дата рассчитана по расписанию: По средам, до конца декабря.
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662/sessions/4163549
+Подробнее: https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-09', date '2026-12-09', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-09', date '2026-12-09', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
   -- moscow-2026-001-2026-12-16
   ('5bba247b-9ce9-5759-bdf8-1e663e314b0c'::uuid, 'Японский маджонг и го', 'Данные для тестирования Locator.
 
@@ -49,10 +46,9 @@ https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prod
 
 Дата рассчитана по расписанию: По средам, до конца декабря.
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662/sessions/4163549
+Подробнее: https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-16', date '2026-12-16', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-16', date '2026-12-16', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
   -- moscow-2026-001-2026-12-23
   ('bad0a4cc-2cbb-5ad9-9304-623335e75cec'::uuid, 'Японский маджонг и го', 'Данные для тестирования Locator.
 
@@ -60,10 +56,9 @@ https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prod
 
 Дата рассчитана по расписанию: По средам, до конца декабря.
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662/sessions/4163549
+Подробнее: https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-23', date '2026-12-23', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-23', date '2026-12-23', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
   -- moscow-2026-001-2026-12-30
   ('8a11aecc-6413-5784-a1b7-26d04e6f274a'::uuid, 'Японский маджонг и го', 'Данные для тестирования Locator.
 
@@ -71,17 +66,15 @@ https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prod
 
 Дата рассчитана по расписанию: По средам, до конца декабря.
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662/sessions/4163549
+Подробнее: https://afisha.timepad.ru/moscow/events/yaponskiy-madzhong-dlya-novichkov-i-prodvinutyh-po-sredam-3925662
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-30', date '2026-12-30', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-30', date '2026-12-30', NULL, NULL, 'Europe/Moscow', 'Новорогожская, 5. Клуб «Фурин»', 55.7432552, 37.6799908),
   -- moscow-2026-002
   ('4a894bc5-5c2d-544a-86a1-274ceb317269'::uuid, 'Книжный клуб 13+: приключенческая литература', 'Данные для тестирования Locator.
 
 Исходная локация: Карманицкий пер., 3Ас4. 2 000 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/knizhnyy-klub-13-plus-v-poiskah-prikliucheniy-4026774
+Подробнее: https://afisha.timepad.ru/moscow/events/knizhnyy-klub-13-plus-v-poiskah-prikliucheniy-4026774
 
 Координаты: предоставлены пользователем.', date '2026-12-17', date '2026-12-17', time '17:30:00', NULL, 'Europe/Moscow', 'Карманицкий пер., 3Ас4', 55.748721, 37.585718),
   -- moscow-2026-003
@@ -89,8 +82,7 @@ https://afisha.timepad.ru/moscow/events/knizhnyy-klub-13-plus-v-poiskah-prikliuc
 
 Исходная локация: Там же. 2 000 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://afisha.timepad.ru/moscow/events/knizhnyy-klub-13-plus-v-poiskah-prikliucheniy-4026774
+Подробнее: https://afisha.timepad.ru/moscow/events/knizhnyy-klub-13-plus-v-poiskah-prikliucheniy-4026774
 
 Координаты: предоставлены пользователем.', date '2027-01-14', date '2027-01-14', time '17:30:00', NULL, 'Europe/Moscow', 'Карманицкий пер., 3Ас4', 55.748721, 37.585718),
   -- moscow-2026-005
@@ -98,28 +90,25 @@ https://afisha.timepad.ru/moscow/events/knizhnyy-klub-13-plus-v-poiskah-prikliuc
 
 Исходная локация: Школа 21, Вятская, 27с42. Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscowcss.timepad.ru/event/4291445/
+Подробнее: https://moscowcss.timepad.ru/event/4291445/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-26', date '2026-11-26', time '19:00:00', NULL, 'Europe/Moscow', 'Школа 21, Вятская, 27с42', 55.7970366, 37.57976),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-26', date '2026-11-26', time '19:00:00', NULL, 'Europe/Moscow', 'Школа 21, Вятская, 27с42', 55.7970366, 37.57976),
   -- moscow-2026-009
   ('462c1df7-d3f5-57c5-a66b-5591eaa744d3'::uuid, 'PMM: стратег или человек, который делает презентации?', 'Данные для тестирования Locator.
 
 Исходная локация: МТС Банк, пр-т Андропова, 18к1. Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://t.me/littleproduct/1390
+Подробнее: https://t.me/littleproduct/1390
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-01', date '2026-12-01', time '19:00:00', NULL, 'Europe/Moscow', 'МТС Банк, пр-т Андропова, 18к1', 55.6950025, 37.6628631),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-01', date '2026-12-01', time '19:00:00', NULL, 'Europe/Moscow', 'МТС Банк, пр-т Андропова, 18к1', 55.6950025, 37.6628631),
   -- moscow-2026-012
   ('c9d876c9-1080-5547-842b-0d55099f599b'::uuid, 'MoscowJS #73 × Звук', 'Данные для тестирования Locator.
 
 Исходная локация: Поклонная, 3. Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscowjs.timepad.ru/event/4296651/
+Подробнее: https://moscowjs.timepad.ru/event/4296651/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-03', date '2026-12-03', time '18:00:00', NULL, 'Europe/Moscow', 'Поклонная, 3', 55.7363147, 37.5339216),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-03', date '2026-12-03', time '18:00:00', NULL, 'Europe/Moscow', 'Поклонная, 3', 55.7363147, 37.5339216),
   -- moscow-2026-017
   ('3a004d39-8170-5d01-9106-24e471ecf212'::uuid, '«60 секунд»: Битва брендов', 'Данные для тестирования Locator.
 
@@ -127,17 +116,7 @@ https://moscowjs.timepad.ru/event/4296651/
 
 800 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://findquiz.ru/event/60-sek/358458-biznes-liga-bitva-brendov
 
 Координаты: предоставлены пользователем.', date '2026-11-24', date '2026-11-24', time '19:30:00', NULL, 'Europe/Moscow', 'OldSchool Pub', 55.772179, 37.600675),
   -- moscow-2026-018
@@ -147,17 +126,7 @@ https://spontanno.space/moscow/festivals/free
 
 800 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://findquiz.ru/event/60-sek/358459-otkrytaya-liga-dlya-novichkov
 
 Координаты: предоставлены пользователем.', date '2026-11-24', date '2026-11-24', time '19:45:00', NULL, 'Europe/Moscow', 'Coin Hall', 55.731445, 37.627544),
   -- moscow-2026-019
@@ -167,17 +136,7 @@ https://spontanno.space/moscow/festivals/free
 
 800 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://moscow.quizplease.ru/game/01a1bf92-c756-73da-a20f-fe42f3aa91fe
 
 Координаты: предоставлены пользователем.', date '2026-11-24', date '2026-11-24', time '20:00:00', NULL, 'Europe/Moscow', 'Bla Bla Bar', 55.779201, 37.591126),
   -- moscow-2026-020
@@ -187,19 +146,9 @@ https://spontanno.space/moscow/festivals/free
 
 900 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://iwenty.ru/moskva/event/kviz-pliz-100-hitov-P12c2thc
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-24', date '2026-11-24', time '20:00:00', NULL, 'Europe/Moscow', 'Гримёрка', 55.7611218, 37.6244431),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-24', date '2026-11-24', time '20:00:00', NULL, 'Europe/Moscow', 'Гримёрка', 55.7611218, 37.6244431),
   -- moscow-2026-021
   ('28c9510a-8aae-5956-8d94-8f770c85a1c7'::uuid, '«Мозгва»: игра для новичков', 'Данные для тестирования Locator.
 
@@ -207,19 +156,9 @@ https://spontanno.space/moscow/festivals/free
 
 800 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://www.mozgva.com/calendar
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-24', date '2026-11-24', time '20:00:00', NULL, 'Europe/Moscow', 'Труба Труба', 55.7352602, 37.5845948),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-24', date '2026-11-24', time '20:00:00', NULL, 'Europe/Moscow', 'Труба Труба', 55.7352602, 37.5845948),
   -- moscow-2026-022
   ('4ac92759-6c4f-59c8-8fd5-51bb1672ef6c'::uuid, 'WHOIS: вселенная Гарри Поттера', 'Данные для тестирования Locator.
 
@@ -227,19 +166,9 @@ https://spontanno.space/moscow/festivals/free
 
 1000 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://msk.quizwhois.ru/games/vselennaya-garri-pottera
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-25', date '2026-11-25', time '20:00:00', NULL, 'Europe/Moscow', 'Olimpbet Lounge', 55.7521391, 37.5865923),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-25', date '2026-11-25', time '20:00:00', NULL, 'Europe/Moscow', 'Olimpbet Lounge', 55.7521391, 37.5865923),
   -- moscow-2026-023
   ('34987e44-c6d0-56a7-873c-fb77f172bc27'::uuid, 'Squiz: «Цена вопроса»', 'Данные для тестирования Locator.
 
@@ -247,17 +176,7 @@ https://spontanno.space/moscow/festivals/free
 
 790 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://squiz.ru/game/msk-tsena-voprosa-9-261203
 
 Координаты: предоставлены пользователем.', date '2026-11-26', date '2026-11-26', time '20:00:00', NULL, 'Europe/Moscow', 'Coin Hall', 55.731445, 37.627544),
   -- moscow-2026-024
@@ -267,19 +186,9 @@ https://spontanno.space/moscow/festivals/free
 
 700 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://rudagames.com/moskva/schedule
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-26', date '2026-11-26', time '20:00:00', NULL, 'Europe/Moscow', 'Колбасофф Митино', 55.8468549, 37.3575006),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-26', date '2026-11-26', time '20:00:00', NULL, 'Europe/Moscow', 'Колбасофф Митино', 55.8468549, 37.3575006),
   -- moscow-2026-025
   ('b5127d43-50ef-592d-a449-15266e03c6c2'::uuid, 'Squiz Mix', 'Данные для тестирования Locator.
 
@@ -287,19 +196,9 @@ https://spontanno.space/moscow/festivals/free
 
 790 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://squiz.ru/game/msk-skviz-miks-12-1
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-27', date '2026-11-27', time '19:00:00', NULL, 'Europe/Moscow', 'Summer Punch', 55.7623321, 37.613022),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-27', date '2026-11-27', time '19:00:00', NULL, 'Europe/Moscow', 'Summer Punch', 55.7623321, 37.613022),
   -- moscow-2026-026
   ('1d2f3adc-265f-5c43-aa6f-0285ec1a7384'::uuid, 'Squiz: лига новичков', 'Данные для тестирования Locator.
 
@@ -307,19 +206,9 @@ https://spontanno.space/moscow/festivals/free
 
 790 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://squiz.ru/game/msk-liga-novichkov-237-2
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-28', date '2026-11-28', time '17:00:00', NULL, 'Europe/Moscow', 'Золберг', 55.7276486, 37.6215513),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-28', date '2026-11-28', time '17:00:00', NULL, 'Europe/Moscow', 'Золберг', 55.7276486, 37.6215513),
   -- moscow-2026-027
   ('bca5ee1e-58f0-5da3-a4bf-a3b0ccac707f'::uuid, '«Бинго FM» — музыкальное лото', 'Данные для тестирования Locator.
 
@@ -327,19 +216,9 @@ https://spontanno.space/moscow/festivals/free
 
 890 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://bingo-fm.ru/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-28', date '2026-11-28', time '19:30:00', NULL, 'Europe/Moscow', 'Olimpbet Lounge', 55.7521391, 37.5865923),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-28', date '2026-11-28', time '19:30:00', NULL, 'Europe/Moscow', 'Olimpbet Lounge', 55.7521391, 37.5865923),
   -- moscow-2026-028
   ('12f1a570-52bb-596a-a405-a2b45acae1fe'::uuid, 'WHOIS: «Классика: Миллениалы»', 'Данные для тестирования Locator.
 
@@ -347,19 +226,9 @@ https://spontanno.space/moscow/festivals/free
 
 1000 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://msk.quizwhois.ru/games/zakrytie-osennego-sezona-klassika-millenialy
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-29', date '2026-11-29', time '20:00:00', NULL, 'Europe/Moscow', 'Summer Punch', 55.7623321, 37.613022),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-29', date '2026-11-29', time '20:00:00', NULL, 'Europe/Moscow', 'Summer Punch', 55.7623321, 37.613022),
   -- moscow-2026-029
   ('bed021f1-63bc-5118-bf16-91c616789dd2'::uuid, 'Классический Squiz', 'Данные для тестирования Locator.
 
@@ -367,17 +236,7 @@ https://spontanno.space/moscow/festivals/free
 
 790 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://squiz.ru/game/msk-1030-2-261201
 
 Координаты: предоставлены пользователем.', date '2026-12-01', date '2026-12-01', time '20:00:00', NULL, 'Europe/Moscow', 'Ketch Up', 55.759162, 37.644376),
   -- moscow-2026-030
@@ -387,19 +246,9 @@ https://spontanno.space/moscow/festivals/free
 
 790 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://squiz.ru/game/msk-puteshestviya-13
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-02', date '2026-12-02', time '20:00:00', NULL, 'Europe/Moscow', 'Лига Пап', 55.7653264, 37.6309256),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-02', date '2026-12-02', time '20:00:00', NULL, 'Europe/Moscow', 'Лига Пап', 55.7653264, 37.6309256),
   -- moscow-2026-031
   ('dabaeed1-e942-5174-9a3d-ab775b945e73'::uuid, 'WHOIS: «Кинчик и Музончик»', 'Данные для тестирования Locator.
 
@@ -407,17 +256,7 @@ https://spontanno.space/moscow/festivals/free
 
 1000 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://msk.quizwhois.ru/games/kinchik-i-muzonchik-2
 
 Координаты: предоставлены пользователем.', date '2026-12-02', date '2026-12-02', time '20:00:00', NULL, 'Europe/Moscow', 'Unlock Cafe', 55.755809, 37.633526),
   -- moscow-2026-032
@@ -427,19 +266,9 @@ https://spontanno.space/moscow/festivals/free
 
 790 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://squiz.ru/game/msk-ugaday-melodiyu-17-1-261203
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-04', date '2026-12-04', time '19:00:00', NULL, 'Europe/Moscow', 'Золберг', 55.7276486, 37.6215513),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-04', date '2026-12-04', time '19:00:00', NULL, 'Europe/Moscow', 'Золберг', 55.7276486, 37.6215513),
   -- moscow-2026-033
   ('32d74a0f-fb2f-58b1-acfb-75cf82641411'::uuid, 'Squiz: «Гарри Поттер»', 'Данные для тестирования Locator.
 
@@ -447,19 +276,9 @@ https://spontanno.space/moscow/festivals/free
 
 790 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://squiz.ru/game/msk-garri-potter-27-1-261205
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-05', date '2026-12-05', time '19:00:00', NULL, 'Europe/Moscow', 'Olimpbet Lounge', 55.7521391, 37.5865923),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-05', date '2026-12-05', time '19:00:00', NULL, 'Europe/Moscow', 'Olimpbet Lounge', 55.7521391, 37.5865923),
   -- moscow-2026-034
   ('e82240ef-9e1d-54f8-b1af-271355a3da75'::uuid, '«Русские хиты 2010-х»', 'Данные для тестирования Locator.
 
@@ -467,19 +286,9 @@ https://spontanno.space/moscow/festivals/free
 
 700 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://rudagames.com/moskva/schedule
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-10', date '2026-12-10', time '20:00:00', NULL, 'Europe/Moscow', 'Колбасофф Митино', 55.8468549, 37.3575006),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-10', date '2026-12-10', time '20:00:00', NULL, 'Europe/Moscow', 'Колбасофф Митино', 55.8468549, 37.3575006),
   -- moscow-2026-035
   ('15accd11-d29f-5521-a85c-a4edf1021cd8'::uuid, '«Русский рок»', 'Данные для тестирования Locator.
 
@@ -487,19 +296,9 @@ https://spontanno.space/moscow/festivals/free
 
 700 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://rudagames.com/moskva/schedule
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-17', date '2026-12-17', time '20:00:00', NULL, 'Europe/Moscow', 'ИЗИ ПАБ Митино', 55.8527276, 37.3510292),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-17', date '2026-12-17', time '20:00:00', NULL, 'Europe/Moscow', 'ИЗИ ПАБ Митино', 55.8527276, 37.3510292),
   -- moscow-2026-036
   ('05ea90d1-569c-5da5-b0f3-ace5862ffaa5'::uuid, '«Про кино: Новогоднее настроение»', 'Данные для тестирования Locator.
 
@@ -507,19 +306,9 @@ https://spontanno.space/moscow/festivals/free
 
 700 ₽
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://rudagames.com/moskva/schedule
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-24', date '2026-12-24', time '20:00:00', NULL, 'Europe/Moscow', 'Колбасофф Митино', 55.8468549, 37.3575006),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-24', date '2026-12-24', time '20:00:00', NULL, 'Europe/Moscow', 'Колбасофф Митино', 55.8468549, 37.3575006),
   -- moscow-2026-037
   ('707c2dbb-7b19-5189-be04-384f893f1058'::uuid, 'Соционическая мафия', 'Данные для тестирования Locator.
 
@@ -527,19 +316,9 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/otkrytye-igry-sotsionicheskoy-mafii--r3jxbhzt
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-24', date '2026-11-24', time '18:00:00', NULL, 'Europe/Moscow', 'Большая Спасская, 31', 55.7766041, 37.6441399),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-24', date '2026-11-24', time '18:00:00', NULL, 'Europe/Moscow', 'Большая Спасская, 31', 55.7766041, 37.6441399),
   -- moscow-2026-038
   ('3bb88654-a6e7-544c-a38d-d379033daa99'::uuid, 'Настольные игры на ПРИВОЗе', 'Данные для тестирования Locator.
 
@@ -547,19 +326,9 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/nastolnye-igry-na-privoze--4brn0c4j
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-24', date '2026-11-24', time '19:00:00', NULL, 'Europe/Moscow', 'Фудмолл «ПРИВОЗ», Жулебино', 55.6867517, 37.8520106),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-24', date '2026-11-24', time '19:00:00', NULL, 'Europe/Moscow', 'Фудмолл «ПРИВОЗ», Жулебино', 55.6867517, 37.8520106),
   -- moscow-2026-039
   ('f20e09b2-49b9-574e-97ee-ff39fd827afa'::uuid, 'Мафия с разборами', 'Данные для тестирования Locator.
 
@@ -567,19 +336,9 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/gorodskaya-mafiya-s-razborami--nfk8c6kd
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-24', date '2026-11-24', time '19:30:00', NULL, 'Europe/Moscow', 'Краснопрудная, 1', 55.7771569, 37.6599262),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-24', date '2026-11-24', time '19:30:00', NULL, 'Europe/Moscow', 'Краснопрудная, 1', 55.7771569, 37.6599262),
   -- moscow-2026-040
   ('9a5fe622-c0fe-546d-ba33-9491b956747f'::uuid, 'Мастерская «Солёная снежинка»', 'Данные для тестирования Locator.
 
@@ -587,19 +346,9 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/workshops/masterskaya-solenaya-snezhinka--xc7mx70x
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-01', date '2026-12-01', time '17:00:00', NULL, 'Europe/Moscow', 'Октябрьская, 58', 55.7948354, 37.6133911),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-01', date '2026-12-01', time '17:00:00', NULL, 'Europe/Moscow', 'Октябрьская, 58', 55.7948354, 37.6133911),
   -- moscow-2026-041
   ('1b4c3b9a-89c7-59b3-aa65-b74a1b0342ed'::uuid, '«Ёжегодный квиз»', 'Данные для тестирования Locator.
 
@@ -607,19 +356,9 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://svetlovka.timepad.ru/event/4305832/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-01', date '2026-12-01', time '19:00:00', NULL, 'Europe/Moscow', 'Большая Садовая, 1', 55.7665364, 37.5909165),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-01', date '2026-12-01', time '19:00:00', NULL, 'Europe/Moscow', 'Большая Садовая, 1', 55.7665364, 37.5909165),
   -- moscow-2026-042
   ('99a15ace-7d4f-5ea6-badd-ca807dcc44f4'::uuid, 'Настолки на английском', 'Данные для тестирования Locator.
 
@@ -627,19 +366,9 @@ https://spontanno.space/moscow/festivals/free
 
 Уточняется
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://iwenty.ru/moskva/event/nastolnye-igry-na-angliyskom-ulv8zCUj
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-01', date '2026-12-01', time '19:30:00', NULL, 'Europe/Moscow', 'Coffeeshop, Новослободская, 23', 55.7815096, 37.5985008),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-01', date '2026-12-01', time '19:30:00', NULL, 'Europe/Moscow', 'Coffeeshop, Новослободская, 23', 55.7815096, 37.5985008),
   -- moscow-2026-043
   ('40e49004-d62d-5e11-a28d-5e1ac891f601'::uuid, 'Клуб настольных игр', 'Данные для тестирования Locator.
 
@@ -647,19 +376,9 @@ https://spontanno.space/moscow/festivals/free
 
 Уточняется
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/klub-nastolnykh-igr-na-begovoy--psck0n3c
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-02', date '2026-12-02', time '18:00:00', NULL, 'Europe/Moscow', '1-й Хорошёвский пр., 14к3', 55.7756127, 37.5443055),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-02', date '2026-12-02', time '18:00:00', NULL, 'Europe/Moscow', '1-й Хорошёвский пр., 14к3', 55.7756127, 37.5443055),
   -- moscow-2026-044
   ('ec5c4a0d-e395-5c4c-bded-0028dcd6ce63'::uuid, 'Квиз «Киномузигра»', 'Данные для тестирования Locator.
 
@@ -667,17 +386,7 @@ https://spontanno.space/moscow/festivals/free
 
 Уточняется
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/kviz-kinomuzigra--f5z7f6qf
 
 Координаты: предоставлены пользователем.', date '2026-12-04', date '2026-12-04', time '20:00:00', NULL, 'Europe/Moscow', 'Коминтерна, 15', 55.871602, 37.690111),
   -- moscow-2026-045
@@ -687,17 +396,7 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/igroteka-lev-v-igre--xsnhvcav
 
 Координаты: предоставлены пользователем.', date '2026-12-05', date '2026-12-05', time '12:00:00', NULL, 'Europe/Moscow', 'ВДНХ, павильон №61', 55.834603, 37.628532),
   -- moscow-2026-046
@@ -707,19 +406,9 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/bolshaya-igroteka-igraem-s-nami--qt2psd63
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-05', date '2026-12-05', time '14:00:00', NULL, 'Europe/Moscow', 'Большая Почтовая, 16', 55.7758184, 37.6927227),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-05', date '2026-12-05', time '14:00:00', NULL, 'Europe/Moscow', 'Большая Почтовая, 16', 55.7758184, 37.6927227),
   -- moscow-2026-048
   ('3d337775-9e6c-5000-b0ad-2e3275b75935'::uuid, 'Новогодний киномузыкальный квиз', 'Данные для тестирования Locator.
 
@@ -727,19 +416,9 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/games/novogodniy-kinomuzykalnyy-kviz-tayna-poteryannogo-goda--kg7yfes7
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-19', date '2026-12-19', time '18:00:00', NULL, 'Europe/Moscow', 'Библиотека №21, Клары Цеткин, 11к2', 55.8193806, 37.516435),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-19', date '2026-12-19', time '18:00:00', NULL, 'Europe/Moscow', 'Библиотека №21, Клары Цеткин, 11к2', 55.8193806, 37.516435),
   -- moscow-2026-049
   ('122f2c84-cc94-536b-9d1a-de7d9b5ff8f4'::uuid, 'Литературный квиз', 'Данные для тестирования Locator.
 
@@ -747,35 +426,15 @@ https://spontanno.space/moscow/festivals/free
 
 Бесплатно
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://morepost.ru/moscow/event/literaturnyi-kviz-156058
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-19', date '2026-12-19', time '19:00:00', NULL, 'Europe/Moscow', 'Пивотека 465, Новоданиловская наб., 4А', 55.7010091, 37.6253067),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-19', date '2026-12-19', time '19:00:00', NULL, 'Europe/Moscow', 'Пивотека 465, Новоданиловская наб., 4А', 55.7010091, 37.6253067),
   -- moscow-2026-050
   ('7e6a5330-2fd8-5f56-946c-932433a51dc3'::uuid, 'Фестиваль молодёжного кино CTRL+FEST 2.0', 'Данные для тестирования Locator.
 
 Исходная локация: Покровский бульвар, 11с6
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://extra.hse.ru/announcements/1217575735.html
 
 Координаты: предоставлены пользователем.', date '2026-11-25', date '2026-11-25', NULL, NULL, 'Europe/Moscow', 'Покровский бульвар, 11с6', 55.75363, 37.651385),
   -- moscow-2026-051
@@ -783,253 +442,113 @@ https://spontanno.space/moscow/festivals/free
 
 Исходная локация: Чистопрудный бульвар, 23с1
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/food/art-branch--p1ygfdd1
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-11-29', date '2026-11-29', NULL, NULL, 'Europe/Moscow', 'Чистопрудный бульвар, 23с1', 55.7603177, 37.6468208),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-11-29', date '2026-11-29', NULL, NULL, 'Europe/Moscow', 'Чистопрудный бульвар, 23с1', 55.7603177, 37.6468208),
   -- moscow-2026-052
   ('dcb3f19a-0ac4-557e-8052-e4d5c6226c9d'::uuid, 'Мастер-класс «Мультфильм»', 'Данные для тестирования Locator.
 
 Исходная локация: КЦ «Строгино»
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://www.ticketland.ru/doma-kultury/kulturnyy-centr-strogino/master-klass-multfilm/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-01', date '2026-12-01', NULL, NULL, 'Europe/Moscow', 'КЦ «Строгино»', 55.8095843, 37.4023491),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-01', date '2026-12-01', NULL, NULL, 'Europe/Moscow', 'КЦ «Строгино»', 55.8095843, 37.4023491),
   -- moscow-2026-053
   ('3a8510b9-6102-5f29-b04a-193fc41d6a04'::uuid, 'Кинопросмотр «Суровое испытание»', 'Данные для тестирования Locator.
 
 Исходная локация: Яузская, 5
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/cinema/kinoprosmotr-curovoe-ispytanie-2011--9w8z3f55
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-01', date '2026-12-01', NULL, NULL, 'Europe/Moscow', 'Яузская, 5', 55.7495025, 37.6451029),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-01', date '2026-12-01', NULL, NULL, 'Europe/Moscow', 'Яузская, 5', 55.7495025, 37.6451029),
   -- moscow-2026-054
   ('e58c86cb-54a6-56c6-916f-c9fd018ecde6'::uuid, '«Кино без барьеров» — короткометражки', 'Данные для тестирования Locator.
 
 Исходная локация: Николоямская, 1
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/cinema/kino-bez-barerov-pokaz-samykh-vdokhnovlyayushchikh-korotkometrazhnykh-filmov-o--m9ygjneg
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-04', date '2026-12-04', NULL, NULL, 'Europe/Moscow', 'Николоямская, 1', 55.7483168, 37.6477317),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-04', date '2026-12-04', NULL, NULL, 'Europe/Moscow', 'Николоямская, 1', 55.7483168, 37.6477317),
   -- moscow-2026-055
   ('50d8dc3a-4b25-534b-9e7c-c202cad3b85f'::uuid, 'Киноклуб на английском', 'Данные для тестирования Locator.
 
 Исходная локация: Страстной бульвар, 6с1
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/cinema/kinoklub-na-angliyskom-yazyke--pjma0hsn
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-05', date '2026-12-05', NULL, NULL, 'Europe/Moscow', 'Страстной бульвар, 6с1', 55.7657204, 37.6086467),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-05', date '2026-12-05', NULL, NULL, 'Europe/Moscow', 'Страстной бульвар, 6с1', 55.7657204, 37.6086467),
   -- moscow-2026-056
   ('dec5cbdc-8d48-5259-9150-b954d7101f0f'::uuid, 'Мастер-класс по японской иллюстрации', 'Данные для тестирования Locator.
 
 Исходная локация: Станиславского, 15
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/workshops/master-klass-yaponskaya-illyustratsiya--amh9p132
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-06', date '2026-12-06', NULL, NULL, 'Europe/Moscow', 'Станиславского, 15', 55.7449558, 37.66135),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-06', date '2026-12-06', NULL, NULL, 'Europe/Moscow', 'Станиславского, 15', 55.7449558, 37.66135),
   -- moscow-2026-057
   ('e04575b8-ad3f-5587-b24d-9330b3cc1cf2'::uuid, 'Лекция «Живопись в кино: Соррентино»', 'Данные для тестирования Locator.
 
 Исходная локация: Новокузнецкая, 1с1
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/lectures/lektsiya-iz-tsikla-zhivopis-v-kino-sorrentino--gdj60nea
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-09', date '2026-12-09', NULL, NULL, 'Europe/Moscow', 'Новокузнецкая, 1с1', 55.7403066, 37.6300563),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-09', date '2026-12-09', NULL, NULL, 'Europe/Moscow', 'Новокузнецкая, 1с1', 55.7403066, 37.6300563),
   -- moscow-2026-058
   ('44290b78-629d-52d3-bcdd-73543da074e6'::uuid, 'Лекция «Новые тихие»: киноязык нулевых', 'Данные для тестирования Locator.
 
 Исходная локация: КЦ «ЗИЛ»
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/cinema/novye-tikhie-kak-kinoyazyk-opisyvaet-realnost-nulevykh-v-rossii--0bvt7t67
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-11', date '2026-12-11', NULL, NULL, 'Europe/Moscow', 'КЦ «ЗИЛ»', 55.7144688, 37.6578813),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-11', date '2026-12-11', NULL, NULL, 'Europe/Moscow', 'КЦ «ЗИЛ»', 55.7144688, 37.6578813),
   -- moscow-2026-059
   ('1ea60f41-ef4d-5971-a0ed-dfa8397ffa7b'::uuid, 'Лепка ёлочных игрушек', 'Данные для тестирования Locator.
 
 Исходная локация: ДК «Братеево»
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://www.ticketland.ru/doma-kultury/kc-brateevo/master-klass-lepka-elochnykh-igrushek/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-11', date '2026-12-11', NULL, NULL, 'Europe/Moscow', 'ДК «Братеево»', 55.6333639, 37.7669422),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-11', date '2026-12-11', NULL, NULL, 'Europe/Moscow', 'ДК «Братеево»', 55.6333639, 37.7669422),
   -- moscow-2026-060
   ('6b0a36fa-8a15-5ba3-9576-721b3fda09cd'::uuid, 'Живопись по мотивам Матисса', 'Данные для тестирования Locator.
 
 Исходная локация: Станиславского, 15
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/workshops/master-klass-zhivopis-po-motivam-matissa--642f2cpm
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-12', date '2026-12-12', NULL, NULL, 'Europe/Moscow', 'Станиславского, 15', 55.7449558, 37.66135),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-12', date '2026-12-12', NULL, NULL, 'Europe/Moscow', 'Станиславского, 15', 55.7449558, 37.66135),
   -- moscow-2026-061
   ('f117dd8c-135f-5b4f-9249-4ec0478cda7a'::uuid, '«Кукла» Эрнста Любича — показ с обсуждением', 'Данные для тестирования Locator.
 
 Исходная локация: Краснохолмская наб., 1/15
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/cinema/kinopokaz-s-obsuzhdeniem-ernst-lyubich-kukla--hy6xsaaz
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-13', date '2026-12-13', NULL, NULL, 'Europe/Moscow', 'Краснохолмская наб., 1/15', 55.731475, 37.6520882),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-13', date '2026-12-13', NULL, NULL, 'Europe/Moscow', 'Краснохолмская наб., 1/15', 55.731475, 37.6520882),
   -- moscow-2026-062
   ('a21f64e3-fb98-5007-be66-5b426f99d8f5'::uuid, 'Мастерская «Новогодняя игрушка»', 'Данные для тестирования Locator.
 
 Исходная локация: Октябрьская, 58
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://votkuda.ru/event/masterskaya-novogodnyaya-igrushka-39694/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-15', date '2026-12-15', NULL, NULL, 'Europe/Moscow', 'Октябрьская, 58', 55.7948354, 37.6133911),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-15', date '2026-12-15', NULL, NULL, 'Europe/Moscow', 'Октябрьская, 58', 55.7948354, 37.6133911),
   -- moscow-2026-063
   ('5b4a7b69-f26a-5ad1-af80-81a8af9e44f2'::uuid, 'Музыкальный вечер «Мне нужно петь!»', 'Данные для тестирования Locator.
 
 Исходная локация: КЦ «ЗИЛ»
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://spontanno.space/moscow/concerts/novogodniy-muzykalnyy-vecher-mne-nuzhno-pet--dk0xdeyq
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-23', date '2026-12-23', NULL, NULL, 'Europe/Moscow', 'КЦ «ЗИЛ»', 55.7144688, 37.6578813),
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-23', date '2026-12-23', NULL, NULL, 'Europe/Moscow', 'КЦ «ЗИЛ»', 55.7144688, 37.6578813),
   -- moscow-2026-064
   ('269527e5-0ba3-5858-9c93-3db8a8e94887'::uuid, 'ГУРМАН-FEST', 'Данные для тестирования Locator.
 
 Исходная локация: 1-й Зачатьевский пер., 4
 
-Ссылки из исходной подборки (могут быть общими для нескольких событий):
-https://moscow.quizplease.ru/
-https://squiz.ru/schedule
-https://rudagames.com/moskva/schedule
-https://msk.quizwhois.ru/
-https://mozgva.com/calendar
-https://spontanno.space/moscow/games/free
-https://spontanno.space/moscow/games/december
-https://spontanno.space/moscow/art/december
-https://spontanno.space/moscow/cinema/december
-https://spontanno.space/moscow/festivals/free
+Подробнее: https://expoafisha.ru/events/gurman-fest/
 
-Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright', date '2026-12-25', date '2026-12-27', NULL, NULL, 'Europe/Moscow', '1-й Зачатьевский пер., 4', 55.7397899, 37.6038412)
+Координаты: OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.', date '2026-12-25', date '2026-12-27', NULL, NULL, 'Europe/Moscow', '1-й Зачатьевский пер., 4', 55.7397899, 37.6038412)
 on conflict (id) do nothing;
 
 commit;
