@@ -51,9 +51,9 @@ def build():
         if e.get('series_key'):
             details.append('Дата рассчитана по расписанию: ' + source_date + '.')
         sources = list(dict.fromkeys(e.get('sources', [])))
-        if sources:
-            details.append('Ссылки из исходной подборки (могут быть общими для нескольких событий):\n' + '\n'.join(sources))
-        details.append('Координаты: ' + ('предоставлены пользователем.' if e.get('geocoding', {}).get('coordinate_source') == 'user' else 'OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL. https://www.openstreetmap.org/copyright'))
+        assert len(sources) == 1, e['key']
+        details.append('Подробнее: ' + sources[0])
+        details.append('Координаты: ' + ('предоставлены пользователем.' if e.get('geocoding', {}).get('coordinate_source') == 'user' else 'OpenStreetMap Nominatim; © OpenStreetMap contributors, ODbL.'))
         values = [literal(event_id) + '::uuid', literal(e['title']), literal('\n\n'.join(details)),
                   'date ' + literal(start), 'date ' + literal(end),
                   'time ' + literal(start_time) if start_time else 'NULL', 'NULL',
